@@ -1,4 +1,4 @@
 api-test
 ========
 
-API test repository
+My API test repository
